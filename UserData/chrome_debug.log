@@ -1,0 +1,44 @@
+[26803:26803:0724/112239.537810:WARNING:chrome_main_delegate.cc(742)] This is Chrome version 126.0.6478.126 (not a warning)
+[26803:26803:0724/112239.723979:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[26803:26803:0724/112239.895927:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[26803:26803:0724/112239.949447:WARNING:bluez_dbus_manager.cc(248)] Floss manager not present, cannot set Floss enable/disable.
+[26803:26803:0724/112240.305433:ERROR:object_proxy.cc(576)] Failed to call method: org.freedesktop.ScreenSaver.GetActive: object_path= /org/freedesktop/ScreenSaver: org.freedesktop.DBus.Error.NotSupported: This method is not part of the idle inhibition specification: https://specifications.freedesktop.org/idle-inhibit-spec/latest/
+[26845:26845:0724/112249.320127:WARNING:sandbox_linux.cc(430)] InitializeSandbox() called with multiple threads in process gpu-process.
+[26803:26803:0724/112250.073640:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[26803:26803:0724/112250.073926:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[26803:26803:0724/112250.074013:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[26803:26803:0724/112252.420435:INFO:CONSOLE(234)] "
+%cStop! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[26803:26803:0724/112252.420543:INFO:CONSOLE(234)] "
+%cThis is a browser feature intended for developers. If someone told you to copy-paste something here to enable an Instagram feature or "hack" someone's account, it is a scam and will give them access to your Instagram account. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[26803:26803:0724/112252.420601:INFO:CONSOLE(234)] "
+%cSee https://www.facebook.com/selfxss for more information. font-family:helvetica; font-size:20px; ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[26803:26803:0724/112252.420666:INFO:CONSOLE(234)] "
+%c ", source: https://static.cdninstagram.com/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (234)
+[26803:26803:0724/112256.133783:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[26803:26803:0724/112256.133909:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'bluetooth'.", source:  (0)
+[26803:26803:0724/112256.133984:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[26803:26803:0724/112256.232838:INFO:CONSOLE(230)] "Permissions policy violation: unload is not allowed in this document.", source: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/UoUZKdb9_0U.js?_nc_x=Ij3Wp8lg5Kz (230)
+[26803:26803:0724/112359.065439:WARNING:zygote_communication_linux.cc(302)] Error reading message from zygote: Connection reset by peer (104)
+[26803:26803:0724/112359.066917:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[26803:26803:0724/112359.066960:WARNING:zygote_communication_linux.cc(304)] Socket closed prematurely.
+[26803:26803:0724/112359.067844:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[26803:26803:0724/112359.068710:WARNING:zygote_communication_linux.cc(304)] Socket closed prematurely.
+[26803:26803:0724/112359.081768:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[26803:26803:0724/112359.081802:WARNING:zygote_communication_linux.cc(304)] Socket closed prematurely.
+[26803:26803:0724/112359.088975:ERROR:network_service_instance_impl.cc(600)] Network service crashed, restarting service.
+[26803:26803:0724/112359.105785:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[26803:26803:0724/112359.105831:WARNING:gpu_process_host.cc(1436)] The GPU process has crashed 1 time(s)
+[26803:26803:0724/112359.113220:ERROR:zygote_communication_linux.cc(292)] Failed to send GetTerminationStatus message to zygote
+[26803:26803:0724/112359.113258:WARNING:zygote_communication_linux.cc(304)] Socket closed prematurely.
+[26803:26803:0724/112359.121508:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[26803:26803:0724/112359.121543:WARNING:gpu_process_host.cc(1436)] The GPU process has crashed 2 time(s)
+[26803:26803:0724/112359.141478:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[26803:26803:0724/112359.141516:WARNING:gpu_process_host.cc(1436)] The GPU process has crashed 3 time(s)
+[26803:26803:0724/112359.157428:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[26803:26803:0724/112359.157464:WARNING:gpu_process_host.cc(1436)] The GPU process has crashed 4 time(s)
+[26803:26803:0724/112359.159437:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[26803:26803:0724/112359.159472:WARNING:gpu_process_host.cc(1436)] The GPU process has crashed 5 time(s)
+[26803:26803:0724/112359.161697:ERROR:gpu_process_host.cc(996)] GPU process launch failed: error_code=1002
+[26803:26803:0724/112359.161908:WARNING:gpu_process_host.cc(1436)] The GPU process has crashed 6 time(s)
+[26803:26803:0724/112359.191462:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
